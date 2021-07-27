@@ -5,6 +5,6 @@
 - 📫 How to reach me email : vijaykumarbellure18@gmail.com
 
 <!---
-vijaykumar144/vijaykumar144 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+vijaykumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
